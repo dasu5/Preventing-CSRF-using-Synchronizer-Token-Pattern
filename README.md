@@ -22,7 +22,7 @@ Copy the generated Target/SynchronizerTokenPattern.war file to conf/webapp/ fold
 
 Start the Tomcat server and navigate to the broswer using this url :http://localhost:8080/SynchronizerTokenPattern/ 
 
-# log URL
+# Blog URL
 https://medium.com/@dasunianupama/preventing-cross-site-request-forgery-csrf-using-synchronizer-token-pattern-7b687053e38c
 
 
